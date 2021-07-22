@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>AluraFlix.API.Domain</RootNamespace>
+    <AssemblyName>AluraFlix.API.Domain</AssemblyName>
+  </PropertyGroup>
+
+</Project>
